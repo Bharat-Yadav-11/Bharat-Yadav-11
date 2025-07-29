@@ -36,19 +36,18 @@
 
 ### 🔥 Projects
 
-- 💼 [**Job Portal Web App**](https://github.com/BharatYadavX/job-portal): Next.js, Clerk, Stripe-powered hiring platform  
-- 🔐 [**CertSecure**](https://github.com/BharatYadavX/CertSecure): Blockchain-based certificate verification system  
-- 🧠 [**Smart Face Attendance**](https://github.com/BharatYadavX/SmartFace-Attendance): AI facial recognition attendance tracker  
-- 🎨 [**Designathon’24 Website**](https://github.com/BharatYadavX/Designathon): Event site using EJS + Spline + responsiveness  
-- 📊 [**Personal Finance AI Tool**](#): Expense tracker powered by GPT & charts *(coming soon)*
+- 💼 [**Job Portal Web App**](https://github.com/Bharat-YadavX-11/Job-Portal): Next.js, Clerk, Stripe-powered hiring platform  
+- 🔐 [**CertSecure**](https://github.com/Bharat-Yadav-11/CertSecure-Main): Blockchain-based certificate verification system  
+- 🧠 [**Smart Face Attendance**](https://github.com/Bharat-Yadav-11/Face-Recognition-System): AI facial recognition attendance tracker  
+- 🎨 [**Designathon’24 Website**](https://github.com/Bharat-Yadav-11/Designathon): Event site using EJS + Spline + responsiveness  
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BharatYadavX&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BharatYadavX&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat-Yadav-11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat-Yadav-11&theme=tokyonight" />
 </p>
 
 ---
@@ -56,7 +55,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BharatYadavX&theme=onedark&title=Commits,Stars,Repositories,Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bharat-Yadav-11&theme=onedark&title=Commits,Stars,Repositories,Followers" />
 </p>
 
 ---
