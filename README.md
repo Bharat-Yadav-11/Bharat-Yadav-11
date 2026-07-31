@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+<pre>
                           .:=+**####**+=:.
                       .:=*%%%%%%%%%%%%%%%%*=:.
                     .=%%%%%%%%%%%%%%%%%%%%%%%%=.
@@ -26,7 +26,7 @@
                  =@#**###+-=--========--=-+###**#@=
               .:*@@*=+**#%%%#%%%%##%%%%#%%%#**+=*@@*:.
          ..-+*#%%%@#+++**##%%%%%%%%%%%%%%##**+++#@%%%#*+-..
-```
+</pre>
 
 # Bharat Bhushan Yadav
 
@@ -42,7 +42,7 @@
 
 ---
 
-```
+```text
 STATUS         ● Available for engineering conversations
 ROLE           Software Engineer · Ethara.Ai
 WORKING ON     LLM post-training · SFT · RL environments · Evals
@@ -73,7 +73,7 @@ Every one of them is documented, module by module, at **[bharat-bhushan.me](http
 
 ## Stack
 
-```
+```text
 LANGUAGES      TypeScript · JavaScript · Python · Java
 FRONTEND       Next.js · React · Tailwind CSS · HTML · CSS
 BACKEND        Node.js · Express · MongoDB
